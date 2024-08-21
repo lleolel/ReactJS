@@ -1,11 +1,16 @@
 .pagina-contato {
-    text-align: center;
-}
 
-.icone {
-    width: 100px;
-}
+    .cabecalho {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
 
-.voltar {
-    font-size: 32px;
+    .icone {
+        width: 70px;
+    }
+    
+    .voltar {
+        font-size: 18px;
+    }
 }
